@@ -1,5 +1,5 @@
 //2390. Removing Stars From a String
-// https://leetcode.com/problems/removing-stars-from-a-string/?envType=study-plan-v2&envId=leetcode-75
+// https://leetcode.com/problems/removing-stars-from-a-string/
 
 typedef struct Node{
     char data;
